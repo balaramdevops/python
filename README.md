@@ -1,6 +1,8 @@
-# python script to get covid cases based on Worldometers
-
-https://www.worldometers.info/coronavirus/
+=======
+# python Covid Module
+Code to see covide cases in usa as per worldometers.
+<br />
+https://www.worldometers.info/coronavirus/country/us/
 
 Usage:
 < />
