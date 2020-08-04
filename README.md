@@ -5,5 +5,5 @@ Code to see covide cases in usa as per worldometers.
 https://www.worldometers.info/coronavirus/country/us/
 
 Usage:
-< />
+<br />
 python3 covid-cases.py usa
