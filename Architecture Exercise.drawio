@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T02:50:32.801Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="sQAILaYt2cVE78vpVGTd" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-27T18:05:12.659Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="6F6SsmacXw75dZGYE8OG" version="16.4.7" type="github">
   <diagram id="fb48Wb3bgh-QxJcJGNRU" name="Page-1">
-    <mxGraphModel dx="2276" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2276" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,10 +197,10 @@
           <mxGeometry x="-40" y="630" width="48.46" height="54" as="geometry" />
         </mxCell>
         <mxCell id="fcUTSALOdopyJ9VbOdTp-89" value="Corporate Data Center" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;fontSize=10;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-115.77" y="719" width="200" height="200" as="geometry" />
+          <mxGeometry x="-120" y="769" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="fcUTSALOdopyJ9VbOdTp-90" value="" style="dashed=0;html=1;shape=mxgraph.aws3.corporate_data_center;fillColor=#7D7C7C;gradientColor=none;dashed=0;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="710" width="30" height="42" as="geometry" />
+          <mxGeometry x="-94.23" y="760" width="30" height="42" as="geometry" />
         </mxCell>
         <mxCell id="fcUTSALOdopyJ9VbOdTp-91" value="&lt;b&gt;VPN&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry y="660" width="40" height="20" as="geometry" />
@@ -232,8 +232,11 @@
         <mxCell id="lFCJGU3x9X-kA8WFJv7N-1" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" parent="1" vertex="1">
           <mxGeometry x="800" y="200" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Tv2Wnal4aTt8HR0PAUqA-1" value="AWS Certificate Manager" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.certificate_manager_3;" vertex="1" parent="1">
+        <mxCell id="Tv2Wnal4aTt8HR0PAUqA-1" value="AWS Certificate Manager" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.certificate_manager_3;" parent="1" vertex="1">
           <mxGeometry x="795" y="487" width="51.25" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="WadNzbnQkEPP6xwA6Y3--2" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="659.25" width="50" height="31.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
