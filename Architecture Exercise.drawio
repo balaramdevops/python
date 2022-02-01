@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T00:41:46.111Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="VWJ8X9mcFDrj2-zLcoMT" version="16.4.11" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-01T00:44:36.528Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="OYFoSLFdZF7pSmRGMzLm" version="16.4.11" type="github">
   <diagram id="fb48Wb3bgh-QxJcJGNRU" name="Page-1">
     <mxGraphModel dx="2036" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -155,22 +155,22 @@
           <mxGeometry x="730" y="290" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fcUTSALOdopyJ9VbOdTp-80" value="Amazon Inspector" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.inspector;" parent="1" vertex="1">
-          <mxGeometry x="732.5" y="390" width="45" height="76" as="geometry" />
+          <mxGeometry x="732.5" y="382.5" width="45" height="76" as="geometry" />
         </mxCell>
         <mxCell id="fcUTSALOdopyJ9VbOdTp-81" value="&lt;b&gt;KMS&lt;/b&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.kms;fillColor=#759C3E;gradientColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="737.5" y="480" width="40" height="40.75" as="geometry" />
+          <mxGeometry x="737.5" y="466" width="40" height="40.75" as="geometry" />
         </mxCell>
         <mxCell id="fcUTSALOdopyJ9VbOdTp-82" value="AWS&#xa;CloudTrail" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudtrail;" parent="1" vertex="1">
-          <mxGeometry x="732.88" y="550" width="55.87" height="80.25" as="geometry" />
+          <mxGeometry x="732.88" y="535" width="55.87" height="80.25" as="geometry" />
         </mxCell>
         <mxCell id="fcUTSALOdopyJ9VbOdTp-83" value="AWS Config" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.config;" parent="1" vertex="1">
-          <mxGeometry x="741.63" y="640" width="38.37" height="70" as="geometry" />
+          <mxGeometry x="741.63" y="628.75" width="38.37" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fcUTSALOdopyJ9VbOdTp-85" value="&lt;b&gt;IAM&lt;/b&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.iam;fillColor=#759C3E;gradientColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="747.32" y="724.5" width="30.18" height="51" as="geometry" />
+          <mxGeometry x="752.23" y="710" width="30.18" height="51" as="geometry" />
         </mxCell>
         <mxCell id="fcUTSALOdopyJ9VbOdTp-86" value="AWS Trusted Advisor" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.trusted_advisor;" parent="1" vertex="1">
-          <mxGeometry x="739.91" y="820" width="50.09" height="90" as="geometry" />
+          <mxGeometry x="738.66" y="783.25" width="50.09" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fcUTSALOdopyJ9VbOdTp-87" value="AWS Systems Manager" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.systems_manager;" parent="1" vertex="1">
           <mxGeometry x="795" y="390" width="50" height="90" as="geometry" />
@@ -270,6 +270,9 @@
         </mxCell>
         <mxCell id="o8n_8KUhObrYbpJHrN5y-9" value="AWS Secrets Manager" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.secrets_manager;" vertex="1" parent="1">
           <mxGeometry x="665" y="190" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="o8n_8KUhObrYbpJHrN5y-10" value="Amazon Route 53" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.route_53;" vertex="1" parent="1">
+          <mxGeometry x="748.75" y="883" width="40" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
