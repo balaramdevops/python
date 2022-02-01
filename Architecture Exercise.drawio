@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T02:54:59.027Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="JRJb24dtq9s2ixPU7_su" version="16.4.11" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-01T00:33:26.087Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="6-n4DzvYaXmgjNET3p4d" version="16.4.11" type="github">
   <diagram id="fb48Wb3bgh-QxJcJGNRU" name="Page-1">
-    <mxGraphModel dx="2276" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2036" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,14 +241,17 @@
             <mxPoint x="80" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DemGLf3_9-e6Tn1iqn-Y-1" value="AWS Database Migration Service" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.database_migration_service;" vertex="1" parent="1">
+        <mxCell id="DemGLf3_9-e6Tn1iqn-Y-1" value="AWS Database Migration Service" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.database_migration_service;" parent="1" vertex="1">
           <mxGeometry x="800.63" y="599.75" width="40" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="DemGLf3_9-e6Tn1iqn-Y-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.018;exitY=0.488;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fcUTSALOdopyJ9VbOdTp-97">
+        <mxCell id="DemGLf3_9-e6Tn1iqn-Y-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.018;exitY=0.488;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="fcUTSALOdopyJ9VbOdTp-97" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="210" as="sourcePoint" />
             <mxPoint x="320" y="209" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="o8n_8KUhObrYbpJHrN5y-1" value="Amazon GuardDuty" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.guardduty;" vertex="1" parent="1">
+          <mxGeometry x="805" y="710" width="40" height="73.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
