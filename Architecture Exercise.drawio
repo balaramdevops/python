@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T00:40:04.116Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="h2bib8OqnbpJCAfggLcy" version="16.4.11" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-01T00:41:46.111Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="VWJ8X9mcFDrj2-zLcoMT" version="16.4.11" type="github">
   <diagram id="fb48Wb3bgh-QxJcJGNRU" name="Page-1">
     <mxGraphModel dx="2036" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -267,6 +267,9 @@
         </mxCell>
         <mxCell id="o8n_8KUhObrYbpJHrN5y-8" value="&lt;b&gt;EC2 Image&lt;br&gt;Builder&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="788.75" y="930" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o8n_8KUhObrYbpJHrN5y-9" value="AWS Secrets Manager" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.secrets_manager;" vertex="1" parent="1">
+          <mxGeometry x="665" y="190" width="50" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
