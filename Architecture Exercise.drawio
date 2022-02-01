@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T00:44:36.528Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="OYFoSLFdZF7pSmRGMzLm" version="16.4.11" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-01T00:50:50.617Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="QwbDVTV2PBkN32jx4ZHh" version="16.4.11" type="github">
   <diagram id="fb48Wb3bgh-QxJcJGNRU" name="Page-1">
     <mxGraphModel dx="2036" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -200,7 +200,7 @@
           <mxGeometry x="450" y="466" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lFCJGU3x9X-kA8WFJv7N-1" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" parent="1" vertex="1">
-          <mxGeometry x="800" y="200" width="40" height="70" as="geometry" />
+          <mxGeometry x="790" y="190" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Tv2Wnal4aTt8HR0PAUqA-1" value="AWS Certificate Manager" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.certificate_manager_3;" parent="1" vertex="1">
           <mxGeometry x="795" y="487" width="51.25" height="96" as="geometry" />
